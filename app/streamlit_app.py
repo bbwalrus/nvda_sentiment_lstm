@@ -6,7 +6,6 @@ from plotly.subplots import make_subplots
 import tensorflow as tf
 from datetime import datetime, timedelta
 import warnings
-import time
 import os
 import sys
 warnings.filterwarnings('ignore')

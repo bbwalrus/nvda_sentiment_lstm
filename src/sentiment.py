@@ -1,5 +1,4 @@
 import pandas as pd
-import torch
 from transformers import AutoTokenizer, TFAutoModelForSequenceClassification, pipeline
 
 def combine_text(row):
